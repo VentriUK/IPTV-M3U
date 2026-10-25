@@ -1,0 +1,129 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="AnimalPlanet.us@East" tvg-name="Animal Planet East [backup]" group-title="HOST | 23.237.104.106:8080",Animal Planet East [backup] | 23.237.104.106:8080
+http://23.237.104.106:8080/USA_ANIMAL_PLANET/index.m3u8
+#EXTINF:-1 tvg-id="SYFY.us@East" tvg-name="SYFY East [backup]" group-title="HOST | 23.237.104.106:8080",SYFY East [backup] | 23.237.104.106:8080
+http://23.237.104.106:8080/USA_SYFY/index.m3u8
+#EXTINF:-1 tvg-id="Buzzr.us@SD" tvg-name="BUZZR" group-title="HOST | 23.237.104.106:8080",BUZZR | 23.237.104.106:8080
+http://23.237.104.106:8080/USA_BUZZR/index.m3u8
+#EXTINF:-1 tvg-id="CMT.us@East" tvg-name="CMT East" group-title="HOST | 23.237.104.106:8080",CMT East | 23.237.104.106:8080
+http://23.237.104.106:8080/USA_CMT/index.m3u8
+#EXTINF:-1 tvg-id="E.us@East" tvg-name="E! East" group-title="HOST | 23.237.104.106:8080",E! East | 23.237.104.106:8080
+http://23.237.104.106:8080/USA_E/index.m3u8
+#EXTINF:-1 tvg-id="IFC.us@East" tvg-name="IFC East" group-title="HOST | 23.237.104.106:8080",IFC East | 23.237.104.106:8080
+http://23.237.104.106:8080/USA_IFC/index.m3u8
+#EXTINF:-1 tvg-id="IONTV.us@East" tvg-name="ION TV East" group-title="HOST | 23.237.104.106:8080",ION TV East | 23.237.104.106:8080
+http://23.237.104.106:8080/USA_ION/index.m3u8
+#EXTINF:-1 tvg-id="MTVLive.us@SD" tvg-name="MTV Live" group-title="HOST | 23.237.104.106:8080",MTV Live | 23.237.104.106:8080
+http://23.237.104.106:8080/USA_MTV_LIVE/index.m3u8
+#EXTINF:-1 tvg-id="OWN.us@East" tvg-name="OWN East" group-title="HOST | 23.237.104.106:8080",OWN East | 23.237.104.106:8080
+http://23.237.104.106:8080/USA_OWN/index.m3u8
+#EXTINF:-1 tvg-id="truTV.us@East" tvg-name="truTV East" group-title="HOST | 23.237.104.106:8080",truTV East | 23.237.104.106:8080
+http://23.237.104.106:8080/USA_TRUTV/index.m3u8
+#EXTINF:-1 tvg-id="VICETV.us@SD" tvg-name="VICE TV" group-title="HOST | 23.237.104.106:8080",VICE TV | 23.237.104.106:8080
+http://23.237.104.106:8080/USA_VICETV/index.m3u8
+#EXTINF:-1 tvg-id="WeTV.us@East" tvg-name="We TV East" group-title="HOST | 23.237.104.106:8080",We TV East | 23.237.104.106:8080
+http://23.237.104.106:8080/USA_WE_TV/index.m3u8
+#EXTINF:-1 tvg-id="AmericanHeroesChannel.us@SD" tvg-name="American Heroes Channel" group-title="HOST | 23.237.104.106:8080",American Heroes Channel | 23.237.104.106:8080
+http://23.237.104.106:8080/USA_AMERICAN_HEROES/index.m3u8
+#EXTINF:-1 tvg-id="CookingChannel.us@SD" tvg-name="Cooking Channel" group-title="HOST | 23.237.104.106:8080",Cooking Channel | 23.237.104.106:8080
+http://23.237.104.106:8080/USA_COOKING/index.m3u8
+#EXTINF:-1 tvg-id="DestinationAmerica.us@SD" tvg-name="Destination America" group-title="HOST | 23.237.104.106:8080",Destination America | 23.237.104.106:8080
+http://23.237.104.106:8080/USA_DESTINATION_AMERICA/index.m3u8
+#EXTINF:-1 tvg-id="FoodNetwork.us@East" tvg-name="Food Network East" group-title="HOST | 23.237.104.106:8080",Food Network East | 23.237.104.106:8080
+http://23.237.104.106:8080/USA_FOOD_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="Boomerang.us@SD" tvg-name="Boomerang" group-title="HOST | 23.237.104.106:8080",Boomerang | 23.237.104.106:8080
+http://23.237.104.106:8080/USA_BOOMERANG/index.m3u8
+#EXTINF:-1 tvg-id="CinemaxHits.us@East" tvg-name="Cinemax Hits East" group-title="HOST | 23.237.104.106:8080",Cinemax Hits East | 23.237.104.106:8080
+http://23.237.104.106:8080/USA_MOREMAX/index.m3u8
+#EXTINF:-1 tvg-id="Cinemax.us@West" tvg-name="Cinemax West" group-title="HOST | 23.237.104.106:8080",Cinemax West | 23.237.104.106:8080
+http://23.237.104.106:8080/USA_CINEMAX_WEST/index.m3u8
+#EXTINF:-1 tvg-id="Starz.us@West" tvg-name="Starz West" group-title="HOST | 23.237.104.106:8080",Starz West | 23.237.104.106:8080
+http://23.237.104.106:8080/USA_STARZ_WEST/index.m3u8
+#EXTINF:-1 tvg-id="HLN.us@SD" tvg-name="HLN" group-title="HOST | 23.237.104.106:8080",HLN | 23.237.104.106:8080
+http://23.237.104.106:8080/USA_HLN/index.m3u8
+#EXTINF:-1 tvg-id="NBATV.us@SD" tvg-name="NBA TV" group-title="HOST | 23.237.104.106:8080",NBA TV | 23.237.104.106:8080
+http://23.237.104.106:8080/USA_NBA/index.m3u8
+#EXTINF:-1 tvg-id="TennisChannel.us@SD" tvg-name="Tennis Channel" group-title="HOST | 23.237.104.106:8080",Tennis Channel | 23.237.104.106:8080
+http://23.237.104.106:8080/USA_TENNIS/index.m3u8
+#EXTINF:-1 tvg-id="ESPN.us@SD" tvg-name="ESPN [Ayna 432p]" group-title="HOST | AynaOTT / Ayna Scope",ESPN [Ayna 432p] | tvsen7.aynascope.net
+http://tvsen7.aynascope.net/espn/index.m3u8
+#EXTINF:-1 tvg-id="FX.us@East" tvg-name="FX East" group-title="HOST | AynaOTT / Ayna Scope",FX East | tvsen7.aynascope.net
+https://tvsen7.aynascope.net/fx/index.m3u8
+#EXTINF:-1 tvg-id="SYFY.us@East" tvg-name="SYFY East" group-title="HOST | AynaOTT / Ayna Scope",SYFY East | tvsen7.aynascope.net
+http://tvsen7.aynascope.net/syfy/index.m3u8
+#EXTINF:-1 tvg-id="HGTV.us@East" tvg-name="HGTV East" group-title="HOST | AynaOTT / Ayna Scope",HGTV East | tvsen7.aynascope.net
+http://tvsen7.aynascope.net/hgtv/index.m3u8
+#EXTINF:-1 tvg-id="CartoonNetwork.us@East" tvg-name="Cartoon Network / Adult Swim East" group-title="HOST | AynaOTT / Ayna Scope",Cartoon Network / Adult Swim East | tvsen7.aynascope.net
+http://tvsen7.aynascope.net/cartoonnetwork/index.m3u8
+#EXTINF:-1 tvg-id="DiscoveryFamily.us@East" tvg-name="Discovery Family East" group-title="HOST | AynaOTT / Ayna Scope",Discovery Family East | tvsen5.aynaott.com
+https://tvsen5.aynaott.com/discoveryfamily/index.m3u8
+#EXTINF:-1 tvg-id="NickJr.us@East" tvg-name="Nick Jr East" group-title="HOST | AynaOTT / Ayna Scope",Nick Jr East | tvsen7.aynascope.net
+http://tvsen7.aynascope.net/nickjr/index.m3u8
+#EXTINF:-1 tvg-id="Nicktoons.us@East" tvg-name="Nicktoons East" group-title="HOST | AynaOTT / Ayna Scope",Nicktoons East | tvsen7.aynascope.net
+https://tvsen7.aynascope.net/nicktoons/index.m3u8
+#EXTINF:-1 tvg-id="TeenNick.us@East" tvg-name="TeenNick East [432p]" group-title="HOST | AynaOTT / Ayna Scope",TeenNick East [432p] | tvsen7.aynascope.net
+http://tvsen7.aynascope.net/teennick/index.m3u8
+#EXTINF:-1 tvg-id="HBO.us@East" tvg-name="HBO East" group-title="HOST | AynaOTT / Ayna Scope",HBO East | tvsen7.aynascope.net
+http://tvsen7.aynascope.net/hbo/index.m3u8
+#EXTINF:-1 tvg-id="HBOHits.us@East" tvg-name="HBO Hits East" group-title="HOST | AynaOTT / Ayna Scope",HBO Hits East | tvsen7.aynascope.net
+http://tvsen7.aynascope.net/hbo2/index.m3u8
+#EXTINF:-1 tvg-id="CNN.us@SD" tvg-name="CNN US" group-title="HOST | AynaOTT / Ayna Scope",CNN US | tvsen6.aynaott.com
+https://tvsen6.aynaott.com/cnn/index.m3u8
+#EXTINF:-1 tvg-id="FoxBusinessNetwork.us@SD" tvg-name="Fox Business Network" group-title="HOST | AynaOTT / Ayna Scope",Fox Business Network | tvsen6.aynaott.com
+https://tvsen6.aynaott.com/foxbusiness/index.m3u8
+#EXTINF:-1 tvg-id="FoxNewsChannel.us@SD" tvg-name="Fox News Channel" group-title="HOST | AynaOTT / Ayna Scope",Fox News Channel | tvsen6.aynaott.com
+https://tvsen6.aynaott.com/foxnews/index.m3u8
+#EXTINF:-1 tvg-id="MSNOW.us@SD" tvg-name="MS NOW [432p]" group-title="HOST | AynaOTT / Ayna Scope",MS NOW [432p] | tvsen6.aynaott.com
+https://tvsen6.aynaott.com/msnbc/index.m3u8
+#EXTINF:-1 tvg-id="FoxSports1.us@HD" tvg-name="Fox Sports 1" group-title="HOST | AynaOTT / Ayna Scope",Fox Sports 1 | tvsen7.aynascope.net
+https://tvsen7.aynascope.net/foxsports1/index.m3u8
+#EXTINF:-1 tvg-id="FoxSports2.us@HD" tvg-name="Fox Sports 2" group-title="HOST | AynaOTT / Ayna Scope",Fox Sports 2 | tvsen7.aynascope.net
+https://tvsen7.aynascope.net/foxsports2/index.m3u8
+#EXTINF:-1 tvg-id="NBATV.us@SD" tvg-name="NBA TV [backup]" group-title="HOST | 198.58.104.90:8989",NBA TV [backup] | 198.58.104.90:8989
+http://198.58.104.90:8989/nba/index.m3u8
+#EXTINF:-1 tvg-id="MTV.us@East" tvg-name="MTV East" group-title="HOST | 198.58.104.90:8989",MTV East | 198.58.104.90:8989
+http://198.58.104.90:8989/mtv/index.m3u8
+#EXTINF:-1 tvg-id="MTV2.us@East" tvg-name="MTV2 East" group-title="HOST | 198.58.104.90:8989",MTV2 East | 198.58.104.90:8989
+http://198.58.104.90:8989/mtv2/index.m3u8
+#EXTINF:-1 tvg-id="NationalGeographicWild.us@HDEast" tvg-name="Nat Geo Wild East" group-title="HOST | 198.58.104.90:8989",Nat Geo Wild East | 198.58.104.90:8989
+http://198.58.104.90:8989/natgeowild/index.m3u8
+#EXTINF:-1 tvg-id="NationalGeographic.us@HDEast" tvg-name="National Geographic East" group-title="HOST | 198.58.104.90:8989",National Geographic East | 198.58.104.90:8989
+http://198.58.104.90:8989/natgeo/index.m3u8
+#EXTINF:-1 tvg-id="Oxygen.us@East" tvg-name="Oxygen East" group-title="HOST | 198.58.104.90:8989",Oxygen East | 198.58.104.90:8989
+http://198.58.104.90:8989/oxygen/index.m3u8
+#EXTINF:-1 tvg-id="Nickelodeon.us@East" tvg-name="Nickelodeon East" group-title="HOST | 198.58.104.90:8989",Nickelodeon East | 198.58.104.90:8989
+http://198.58.104.90:8989/nickelodeon/index.m3u8
+#EXTINF:-1 tvg-id="NFLNetwork.us@SD" tvg-name="NFL Network" group-title="HOST | 198.58.104.90:8989",NFL Network | 198.58.104.90:8989
+http://198.58.104.90:8989/nfl/index.m3u8
+#EXTINF:-1 tvg-id="AMC.us@EastHD" tvg-name="AMC East" group-title="HOST | 23.239.31.26:8989",AMC East | 23.239.31.26:8989
+http://23.239.31.26:8989/amc/index.m3u8
+#EXTINF:-1 tvg-id="AXSTV.us@SD" tvg-name="AXS TV" group-title="HOST | 23.239.31.26:8989",AXS TV | 23.239.31.26:8989
+http://23.239.31.26:8989/axstv/index.m3u8
+#EXTINF:-1 tvg-id="BBCAmerica.us@East" tvg-name="BBC America East" group-title="HOST | 23.239.31.26:8989",BBC America East | 23.239.31.26:8989
+http://23.239.31.26:8989/bbcamerica/index.m3u8
+#EXTINF:-1 tvg-id="AE.us@East" tvg-name="A&E East" group-title="HOST | 23.239.31.26:8989",A&E East | 23.239.31.26:8989
+http://23.239.31.26:8989/aande/index.m3u8
+#EXTINF:-1 tvg-id="AnimalPlanet.us@East" tvg-name="Animal Planet East" group-title="HOST | 23.239.31.26:8989",Animal Planet East | 23.239.31.26:8989
+http://23.239.31.26:8989/animalplanet/index.m3u8
+#EXTINF:-1 tvg-id="NationalGeographic.us@East" tvg-name="National Geographic East [backup]" group-title="HOST | 212.5.144.156:8080",National Geographic East [backup] | 212.5.144.156:8080
+http://212.5.144.156:8080/natgeo/index.m3u8
+#EXTINF:-1 tvg-id="NickJr.us@East" tvg-name="Nick Jr East [backup]" group-title="HOST | 212.5.144.156:8080",Nick Jr East [backup] | 212.5.144.156:8080
+http://212.5.144.156:8080/nickjr/index.m3u8
+#EXTINF:-1 tvg-id="History.us@East" tvg-name="History East" group-title="HOST | 212.5.144.156:8080",History East | 212.5.144.156:8080
+http://212.5.144.156:8080/history/index.m3u8
+#EXTINF:-1 tvg-id="FoxSports1.us@HD" tvg-name="Fox Sports 1 [backup]" group-title="HOST | 85.237.89.160:9590",Fox Sports 1 [backup] | 85.237.89.160:9590
+http://85.237.89.160:9590/usa-s/FOX-SPORTS-1/index.m3u8
+#EXTINF:-1 tvg-id="ESPN.us@HD" tvg-name="ESPN HD" group-title="HOST | 85.237.89.160:9590",ESPN HD | 85.237.89.160:9590
+http://85.237.89.160:9590/usa-s/ESPN-HD/index.m3u8
+#EXTINF:-1 tvg-id="ESPN2.us@HD" tvg-name="ESPN2 HD" group-title="HOST | 85.237.89.160:9590",ESPN2 HD | 85.237.89.160:9590
+http://85.237.89.160:9590/usa-s/ESPN-2-HD/index.m3u8
+#EXTINF:-1 tvg-id="USANetwork.us@East" tvg-name="USA Network East" group-title="HOST | 190.197.41.183",USA Network East | 190.197.41.183
+http://190.197.41.183/USA_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="MagnoliaNetwork.us@East" tvg-name="Magnolia Network East" group-title="HOST | 190.197.41.183",Magnolia Network East | 190.197.41.183
+http://190.197.41.183/MAGNOLIA_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="Nicktoons.us@East" tvg-name="Nicktoons East [backup]" group-title="HOST | 41.205.93.154",Nicktoons East [backup] | 41.205.93.154
+http://41.205.93.154/NICKTOONS/index.m3u8
+#EXTINF:-1 tvg-id="Bravo.us@East" tvg-name="Bravo East" group-title="HOST | 41.205.93.154",Bravo East | 41.205.93.154
+http://41.205.93.154/BRAVO/index.m3u8
+#EXTINF:-1 tvg-id="USANetwork.us@East" tvg-name="USA Network East [backup]" group-title="HOST | 200.32.231.178",USA Network East [backup] | 200.32.231.178
+http://200.32.231.178/USA_NETWORK/index.m3u8
